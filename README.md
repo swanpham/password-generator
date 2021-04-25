@@ -14,6 +14,8 @@
 
 * THEN enter a length between 8 -128 characters
 
+![Alt text](/images/Capture.JPG@1.JPG?raw=true "Optional Title")
+
 ## #2
 
 * WHEN prompted for password criteria
