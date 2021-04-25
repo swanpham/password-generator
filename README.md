@@ -7,11 +7,18 @@
 
 ## GIVEN a Password-generator with form inputs
 
+![Alt text](/images/Capture.JPG?raw=true "Optional Title")
+
+
 ## # 1
 
 * When I click the button to generate a password
 
 * THEN enter a length between 8 -128 characters
+
+
+![Alt text](/images/Capture.JPG@1.JPG?raw=true "Optional Title")
+
 
 ## #2
 
@@ -31,6 +38,12 @@
 
 * THEN I choose lowercase, uppercase, numeric, and/or special characters
 
+
+![Alt text](/images/Capture.JPG@2.JPG?raw=true "Optional Title")
+![Alt text](/images/Capture.JPG@3.JPG?raw=true "Optional Title")
+![Alt text](/images/Capture.JPG@4.JPG?raw=true "Optional Title")
+![Alt text](/images/Capture.JPG@5.JPG?raw=true "Optional Title")
+
 ## #5
 
 * WHEN I answer each prompt
@@ -49,9 +62,16 @@
 
 * THEN the password is either displayed in an alert or written to the page
 
+![Alt text](/images/Capture.JPG@6.JPG?raw=true "Optional Title")
+
+
 ## Built With
 
 * JavaScript
 
 ## Website
 https://swanpham.github.io/password-generator/
+
+
+
+
