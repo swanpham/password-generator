@@ -7,7 +7,7 @@
 
 ## GIVEN a weather dashboard with form inputs
 
-![Alt text](/images/Capture.JPG?raw=true "Optional Title")
+![Alt text](C:\Users\Accounting\Desktop\projects\password-generator\images?raw=true "Optional Title")
 
 
 ## Issue # 1
