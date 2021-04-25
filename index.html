@@ -5,40 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Password Generator</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css" />
-    
   </head>
   <body>
-    
     <div class="wrapper">
       <header>
         <h1>Password Generator</h1>
       </header>
-      
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 col-sm-12 mx-auto">
-            <div class="content">
-              <h4>Generate a Password</h4>
-              <br />
-              <input type="text" id="display">
-              <br />
-              <input type="range" min="0" max="128" name="slider" id="slider">   
-              <br />
-              <button onclick="generate()">Generate Password</button> 
-              <button onclick="copyPassword()">Copy to clipboard</button> 
-              <div id="length"></div>          
-            </div>
-
-            <div class="previous_passwords">
-              <b>Previously Generated Passwords</b>
-              <br />
-              <div id="lastNums"></div>
-            </div>
-
-          </div>
-        </div>            
+      <div class="card">
+        <div class="card-header">
+          <h2>Generate a Password</h2>
+        </div>
+        <div class="card-body">
+          <textarea
+            readonly
+            id="password"
+            placeholder="Your Secure Password"
+            aria-label="Generated Password"
+          ></textarea>
+        </div>
+        <div class="card-footer">
+          <button id="generate" class="btn">Generate Password</button>
+        </div>
       </div>
     </div>
     <script src="script.js"></script>
