@@ -22,8 +22,6 @@
 
 * THEN I select which criteria to include in the password
 
-![Alt text](/images/Capture.JPG@2.JPG?raw=true "Optional Title")
-
 ## #3
 
 * WHEN prompted for the length of the password
@@ -35,6 +33,11 @@
 * WHEN prompted for character types to include in the password
 
 * THEN I choose lowercase, uppercase, numeric, and/or special characters
+
+![Alt text](/images/Capture.JPG@2.JPG?raw=true "Optional Title")
+![Alt text](/images/Capture.JPG@3.JPG?raw=true "Optional Title")
+![Alt text](/images/Capture.JPG@4.JPG?raw=true "Optional Title")
+![Alt text](/images/Capture.JPG@5.JPG?raw=true "Optional Title")
 
 ## #5
 
