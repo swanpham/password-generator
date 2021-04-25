@@ -57,6 +57,8 @@
 
 * THEN the password is either displayed in an alert or written to the page
 
+![Alt text](/images/Capture.JPG@6.JPG?raw=true "Optional Title")
+
 ## Built With
 
 * JavaScript
