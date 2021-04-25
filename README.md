@@ -7,9 +7,6 @@
 
 ## GIVEN a weather dashboard with form inputs
 
-![Alt text](C:\Users\Accounting\Desktop\projects\password-generator\images?raw=true "Optional Title")
-
-
 ## Issue # 1
 
 * WHEN I click the button to generate a password
