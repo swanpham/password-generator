@@ -55,10 +55,7 @@
 ## Built With
 * HTML
 * CSS
-* [jQuery](https://jquery.com/)
 * JavaScript
-* [OpenWeather API](https://openweathermap.org/)
-* [FontAwesome](https://fontawesome.com/)
 
 ## Website
 https://swanpham.github.io/weather-forecast/
