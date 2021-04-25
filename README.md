@@ -5,7 +5,7 @@
   * I WANT to randomly generate a password that meets certain criteria
   * SO THAT I can create a strong password that provides greater security
 
-## GIVEN a weather dashboard with form inputs
+## GIVEN a Password-generator with form inputs
 
 ## Issue # 1
 
