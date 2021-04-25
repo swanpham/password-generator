@@ -58,4 +58,4 @@
 * JavaScript
 
 ## Website
-https://swanpham.github.io/weather-forecast/
+https://swanpham.github.io/password-generator/
