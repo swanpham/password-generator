@@ -6,7 +6,9 @@
   * SO THAT I can create a strong password that provides greater security
 
 ## GIVEN a Password-generator with form inputs
+
 ![Alt text](/images/Capture.JPG?raw=true "Optional Title")
+
 
 ## # 1
 
@@ -14,7 +16,9 @@
 
 * THEN enter a length between 8 -128 characters
 
+
 ![Alt text](/images/Capture.JPG@1.JPG?raw=true "Optional Title")
+
 
 ## #2
 
@@ -33,6 +37,7 @@
 * WHEN prompted for character types to include in the password
 
 * THEN I choose lowercase, uppercase, numeric, and/or special characters
+
 
 ![Alt text](/images/Capture.JPG@2.JPG?raw=true "Optional Title")
 ![Alt text](/images/Capture.JPG@3.JPG?raw=true "Optional Title")
@@ -59,10 +64,14 @@
 
 ![Alt text](/images/Capture.JPG@6.JPG?raw=true "Optional Title")
 
+
 ## Built With
 
 * JavaScript
 
 ## Website
 https://swanpham.github.io/password-generator/
+
+
+
 
