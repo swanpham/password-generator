@@ -6,6 +6,7 @@
   * SO THAT I can create a strong password that provides greater security
 
 ## GIVEN a Password-generator with form inputs
+![Alt text](/images/Capture.JPG?raw=true "Optional Title")
 
 ## # 1
 
