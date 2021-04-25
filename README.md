@@ -22,6 +22,8 @@
 
 * THEN I select which criteria to include in the password
 
+![Alt text](/images/Capture.JPG@2.JPG?raw=true "Optional Title")
+
 ## #3
 
 * WHEN prompted for the length of the password
